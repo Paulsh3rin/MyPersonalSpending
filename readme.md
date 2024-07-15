@@ -26,3 +26,10 @@ Load the data to MySQL DataBase
 * Create Header
 * Transform credit column within Credit Account (ie, seperate payments and interests)
 
+## Issues & Solution / Flow
+### Dataset
+| No. | Issue / Work | Status | Description |
+|-|----|-----|-----|
+| 1. | No header| Resolved | add header |
+| 2. | New Feature | Added | feature "Accont" |
+

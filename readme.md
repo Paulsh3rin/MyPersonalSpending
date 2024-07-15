@@ -15,8 +15,8 @@ Extracted dataset (csv) from banking server.
 
 ### 2. Load
 #### Data Preprocessing: 
-- Add headers for Cheq_df
-- Add feature 'Account' within dataset
+- Added headers for each dataset
+- Added feature, 'Account' within each dataset
 
 Merge the datasets before loading
 Load the data to MySQL DataBase

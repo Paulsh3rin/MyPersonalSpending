@@ -13,17 +13,17 @@ Extracted dataset (csv) from banking server.
 2. Credit Account: "CredMay23-June24"
 3. Savings Account: "SavMay23-June24"
 
-### 2. Load
-#### Data Preprocessing: 
+## Data Preprocessing: 
 - Added headers for each dataset
 - Added feature, 'Account' within each dataset
+- Used spaCy's NER capabilities to extract vendor name from transaction details. Set the cells empty for non recognized vendor names.
+- Created a loop to manually enter the vendor name for empty cells.
 
 Merge the datasets before loading
 Load the data to MySQL DataBase
 
 ### 2. Required Transformations:
 
-* Create Header
 * Transform credit column within Credit Account (ie, seperate payments and interests)
 
 ## Issues & Solution / Flow

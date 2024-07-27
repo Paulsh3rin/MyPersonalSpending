@@ -1,0 +1,676 @@
+,Date,vendors,Debit,Credit,account
+0,2024-06-28,Service Charge,16.95,0.0,chequing
+1,2024-06-28,WALMART,22.24,0.0,chequing
+2,2024-06-28,WALMART,16.83,0.0,chequing
+3,2024-06-28,WALMART,3.3,0.0,chequing
+4,2024-06-28,WALMART,4.34,0.0,chequing
+5,2024-06-27,WALMART,6.81,0.0,chequing
+6,2024-06-26,WALMART,7.37,0.0,chequing
+7,2024-06-26,WALMART,5.9,0.0,chequing
+8,2024-06-26,MCDONALD'S,1.33,0.0,chequing
+9,2024-06-26,WALMART,9.94,0.0,chequing
+10,2024-06-25,Tim Hortons,3.66,0.0,chequing
+11,2024-06-25,PANAGO,5.65,0.0,chequing
+12,2024-06-25,WALMART,1.65,0.0,chequing
+13,2024-06-25,MCDONALD'S,1.33,0.0,chequing
+14,2024-06-25,Remitly Transaction,250.91,0.0,chequing
+15,2024-06-25,Cannabis Street,22.36,0.0,chequing
+16,2024-06-24,WALMART,2.36,0.0,chequing
+17,2024-06-24,MCDONALD'S,4.73,0.0,chequing
+18,2024-06-24,Biju,0.0,300.0,chequing
+19,2024-06-24,WALMART,4.65,0.0,chequing
+20,2024-06-24,WALMART,11.69,0.0,chequing
+21,2024-06-24,Youtube Music,6.2,0.0,chequing
+22,2024-06-24,MCDONALD'S,1.98,0.0,chequing
+23,2024-06-21,GO transit,14.0,0.0,chequing
+24,2024-06-21,WALMART,10.63,0.0,chequing
+25,2024-06-21,MCDONALD'S,1.33,0.0,chequing
+26,2024-06-21,UBER,21.31,0.0,chequing
+27,2024-06-21,Walmart Paycheque,0.0,627.49,chequing
+28,2024-06-20,HUDSON'S,61.01,0.0,chequing
+30,2024-06-20,MCDONALD'S,4.19,0.0,chequing
+31,2024-06-20,Tomi,75.0,0.0,chequing
+32,2024-06-20,Siddharth,0.0,25.0,chequing
+33,2024-06-19,Value Village,25.17,0.0,chequing
+34,2024-06-19,SQ,33.9,0.0,chequing
+35,2024-06-19,Tim Hortons,1.67,0.0,chequing
+36,2024-06-19,Siddharth,0.0,10.5,chequing
+37,2024-06-18,Affirm,88.14,0.0,chequing
+38,2024-06-18,Twisted Roots,21.46,0.0,chequing
+39,2024-06-18,Door Dash,12.33,0.0,chequing
+40,2024-06-17,Tim Hortons,5.64,0.0,chequing
+41,2024-06-17,Jug City,9.05,0.0,chequing
+42,2024-06-17,WALMART,20.35,0.0,chequing
+43,2024-06-17,MCDONALD'S,1.67,0.0,chequing
+44,2024-06-17,UBER,19.94,0.0,chequing
+45,2024-06-17,Tim Hortons,3.97,0.0,chequing
+46,2024-06-17,Presto,3.3,0.0,chequing
+47,2024-06-17,WALMART,14.88,0.0,chequing
+48,2024-06-14,MCDONALD'S,2.09,0.0,chequing
+49,2024-06-14,Tim Hortons,3.71,0.0,chequing
+50,2024-06-13,DOLLARAMA,14.92,0.0,chequing
+52,2024-06-12,No Frills,6.95,0.0,chequing
+53,2024-06-12,Almost Perfect,5.28,0.0,chequing
+54,2024-06-12,WALMART,3.57,0.0,chequing
+55,2024-06-12,MCDONALD'S,3.14,0.0,chequing
+56,2024-06-12,UBER,17.65,0.0,chequing
+57,2024-06-12,WENDY'S,16.7,0.0,chequing
+58,2024-06-11,Siddharth,0.0,150.0,chequing
+59,2024-06-11,ATM Withdrawal,150.0,0.0,chequing
+60,2024-06-10,Tim Hortons,7.89,0.0,chequing
+61,2024-06-10,Siddharth,0.0,9.76,chequing
+62,2024-06-10,Door Dash,1.26,0.0,chequing
+63,2024-06-10,Door Dash,29.26,0.0,chequing
+64,2024-06-10,WALMART,6.15,0.0,chequing
+65,2024-06-10,MCDONALD'S,3.14,0.0,chequing
+66,2024-06-10,WALMART,2.9,0.0,chequing
+67,2024-06-07,Tim Hortons,9.93,0.0,chequing
+68,2024-06-07,Walmart Paycheque,0.0,627.33,chequing
+69,2024-06-06,Siddharth,19.26,0.0,chequing
+70,2024-06-06,hive,25.0,0.0,chequing
+72,2024-06-06,FAMOUS,16.0,0.0,chequing
+73,2024-06-05,Tim Hortons,6.09,0.0,chequing
+74,2024-06-04,GO transit,5.38,0.0,chequing
+75,2024-06-04,L M Taylor,112.94,0.0,chequing
+77,2024-06-03,DOLLARAMA,11.51,0.0,chequing
+78,2024-06-03,Tim Hortons,1.92,0.0,chequing
+79,2024-06-03,Home Rent,500.0,0.0,chequing
+81,2024-06-03,Twisted Roots,23.72,0.0,chequing
+82,2024-06-03,Siddharth,0.0,8.22,chequing
+83,2024-06-03,WALMART,16.45,0.0,chequing
+84,2024-06-03,WALMART,5.69,0.0,chequing
+85,2024-06-03,MCDONALD'S,3.45,0.0,chequing
+86,2024-06-03,UBER,19.22,0.0,chequing
+87,2024-06-03,Siddharth,15.0,0.0,chequing
+88,2024-06-03,UBER,7.28,0.0,chequing
+89,2024-06-03,Beer Store,3.3,0.0,chequing
+90,2024-06-03,WALMART,4.03,0.0,chequing
+91,2024-06-03,UBER,14.11,0.0,chequing
+92,2024-06-03,WALMART,7.02,0.0,chequing
+93,2024-05-31,Service Charge Discount,0.0,16.95,chequing
+94,2024-05-31,Service Charge,16.95,0.0,chequing
+95,2024-05-31,Tim Hortons,9.8,0.0,chequing
+96,2024-05-31,ChatGPT,31.83,0.0,chequing
+97,2024-05-30,Vending Machine,4.0,0.0,chequing
+98,2024-05-30,Vending Machine,3.0,0.0,chequing
+99,2024-05-29,Siddharth,0.0,17.22,chequing
+100,2024-05-29,No Frills,34.45,0.0,chequing
+101,2024-05-28,OSMOWS,10.95,0.0,chequing
+102,2024-05-28,Mary Jane's,2.25,0.0,chequing
+103,2024-05-27,Siddharth,13.56,0.0,chequing
+104,2024-05-27,Siddharth,0.0,4.91,chequing
+105,2024-05-27,WALMART,9.82,0.0,chequing
+106,2024-05-27,WALMART,5.99,0.0,chequing
+107,2024-05-27,UBER,18.51,0.0,chequing
+108,2024-05-24,Siddharth,24.0,0.0,chequing
+109,2024-05-24,SOBEYS,9.76,0.0,chequing
+110,2024-05-24,Shelby's,14.68,0.0,chequing
+111,2024-05-24,Walmart Paycheque,0.0,639.75,chequing
+112,2024-05-24,MISC,3.5,0.0,chequing
+113,2024-05-23,Vending Machine,3.0,0.0,chequing
+114,2024-05-23,WALMART,12.07,0.0,chequing
+115,2024-05-23,Youtube Music,6.2,0.0,chequing
+116,2024-05-23,MISC,3.5,0.0,chequing
+117,2024-05-22,FRESHCO,6.45,0.0,chequing
+118,2024-05-21,Remitly Transaction,51.28,0.0,chequing
+120,2024-05-21,Siddharth,7.0,0.0,chequing
+121,2024-05-21,Siddharth,0.0,11.7,chequing
+122,2024-05-21,WALMART,23.75,0.0,chequing
+123,2024-05-21,WENDY'S,12.87,0.0,chequing
+124,2024-05-21,MCDONALD'S,3.45,0.0,chequing
+126,2024-05-21,UBER,19.4,0.0,chequing
+127,2024-05-21,Siddharth,0.0,10.0,chequing
+128,2024-05-21,Northern Helm Cannabis,20.34,0.0,chequing
+129,2024-05-21,Siddharth,0.0,5.0,chequing
+130,2024-05-21,UBER,9.3,0.0,chequing
+131,2024-05-21,Subway,11.29,0.0,chequing
+132,2024-05-21,FRESHCO,0.99,0.0,chequing
+133,2024-05-21,FRESHCO,3.77,0.0,chequing
+134,2024-05-21,DOLLARAMA,13.56,0.0,chequing
+135,2024-05-21,LCBO,31.45,0.0,chequing
+136,2024-05-21,ODD Burger,13.55,0.0,chequing
+137,2024-05-16,Affirm,253.37,0.0,chequing
+138,2024-05-15,WALMART,3.53,0.0,chequing
+139,2024-05-15,UBER,18.64,0.0,chequing
+140,2024-05-14,WALMART,53.66,0.0,chequing
+141,2024-05-14,No Frills,23.49,0.0,chequing
+142,2024-05-13,MARK'S,54.21,0.0,chequing
+143,2024-05-13,Tim Hortons,2.99,0.0,chequing
+144,2024-05-13,Tim Hortons,5.18,0.0,chequing
+145,2024-05-13,WALMART,11.06,0.0,chequing
+146,2024-05-13,UBER,19.21,0.0,chequing
+147,2024-05-13,UBER,16.47,0.0,chequing
+148,2024-05-13,Beer Store,3.0,0.0,chequing
+149,2024-05-13,WALMART,2.7,0.0,chequing
+150,2024-05-13,WALMART,11.65,0.0,chequing
+151,2024-05-13,UBER,18.7,0.0,chequing
+152,2024-05-10,Mission Thrift,9.03,0.0,chequing
+153,2024-05-10,HABIB,25.6,0.0,chequing
+155,2024-05-10,Walmart Paycheque,0.0,749.12,chequing
+156,2024-05-09,MCDONALD'S,16.26,0.0,chequing
+157,2024-05-08,Tim Hortons,3.66,0.0,chequing
+158,2024-05-08,WALMART,6.0,0.0,chequing
+159,2024-05-08,MCDONALD'S,5.96,0.0,chequing
+160,2024-05-08,UBER,17.77,0.0,chequing
+162,2024-05-08,DOMINOS,11.29,0.0,chequing
+163,2024-05-07,GO transit,2.0,0.0,chequing
+164,2024-05-07,WALMART,26.49,0.0,chequing
+165,2024-05-07,MCDONALD'S,1.33,0.0,chequing
+166,2024-05-07,UBER,17.59,0.0,chequing
+167,2024-05-06,MISC,3.5,0.0,chequing
+168,2024-05-06,No Frills,11.49,0.0,chequing
+169,2024-05-06,Amazon.ca,16.9,0.0,chequing
+171,2024-05-06,UBER Eats,19.75,0.0,chequing
+172,2024-05-02,DOLLARAMA,13.33,0.0,chequing
+173,2024-05-02,Siddharth,0.0,15.5,chequing
+174,2024-05-02,Home Rent,500.0,0.0,chequing
+176,2024-05-01,Siddharth,100.0,0.0,chequing
+177,2024-05-01,WALMART,9.81,0.0,chequing
+178,2024-05-01,Remitly Transaction,253.08,0.0,chequing
+179,2024-05-01,MCDONALD'S,2.3,0.0,chequing
+180,2024-05-01,UBER,17.6,0.0,chequing
+181,2024-04-30,Service Charge Discount,0.0,16.95,chequing
+182,2024-04-30,Service Charge,16.95,0.0,chequing
+183,2024-04-30,UBER,9.39,0.0,chequing
+184,2024-04-30,DOLLARAMA,11.15,0.0,chequing
+185,2024-04-30,MCDONALD'S,6.77,0.0,chequing
+186,2024-04-30,UBER,16.76,0.0,chequing
+187,2024-04-30,PETRO,25.0,0.0,chequing
+188,2024-04-30,ChatGPT,31.69,0.0,chequing
+189,2024-04-30,Tim Hortons,3.66,0.0,chequing
+190,2024-04-29,WALMART,67.81,0.0,chequing
+191,2024-04-29,Tim Hortons,7.88,0.0,chequing
+192,2024-04-29,RUCHI,5.65,0.0,chequing
+193,2024-04-26,WALMART,9.79,0.0,chequing
+194,2024-04-26,MCDONALD'S,5.96,0.0,chequing
+195,2024-04-26,UBER,19.54,0.0,chequing
+196,2024-04-26,Walmart Paycheque,0.0,631.19,chequing
+197,2024-04-25,Cannabis Street,19.2,0.0,chequing
+198,2024-04-25,WALMART,15.98,0.0,chequing
+200,2024-04-25,UBER,55.57,0.0,chequing
+201,2024-04-24,WALMART,22.75,0.0,chequing
+202,2024-04-24,UBER,17.5,0.0,chequing
+203,2024-04-23,Tim Hortons,11.29,0.0,chequing
+204,2024-04-23,Youtube Music,6.2,0.0,chequing
+205,2024-04-23,Foot Locker,115.26,0.0,chequing
+207,2024-04-22,solomon,6.0,0.0,chequing
+208,2024-04-22,WALMART,6.36,0.0,chequing
+209,2024-04-22,MCDONALD'S,5.15,0.0,chequing
+210,2024-04-22,UBER,21.57,0.0,chequing
+212,2024-04-22,CRA Deposit,0.0,814.13,chequing
+213,2024-04-22,PRESTO,10.0,0.0,chequing
+214,2024-04-22,INS Market,6.0,0.0,chequing
+215,2024-04-19,BENNYS,7.91,0.0,chequing
+216,2024-04-19,Durham College,15.0,0.0,chequing
+217,2024-04-19,Tomi,100.0,0.0,chequing
+218,2024-04-17,UBER,3.64,0.0,chequing
+219,2024-04-17,WALMART,24.25,0.0,chequing
+220,2024-04-16,Tim Hortons,5.45,0.0,chequing
+221,2024-04-15,Tim Hortons,1.92,0.0,chequing
+222,2024-04-15,DOLLARAMA,3.39,0.0,chequing
+223,2024-04-15,LCBO,37.95,0.0,chequing
+225,2024-04-15,WALMART,4.34,0.0,chequing
+226,2024-04-15,MCDONALD'S,5.85,0.0,chequing
+227,2024-04-15,UBER,19.29,0.0,chequing
+228,2024-04-15,maya,6.78,0.0,chequing
+229,2024-04-15,UBER,17.39,0.0,chequing
+230,2024-04-15,WALMART,8.75,0.0,chequing
+231,2024-04-15,MCDONALD'S,4.95,0.0,chequing
+232,2024-04-15,No Frills,41.55,0.0,chequing
+233,2024-04-15,Bud Runners,18.07,0.0,chequing
+234,2024-04-12,hemant,15.0,0.0,chequing
+235,2024-04-12,Walmart Paycheque,0.0,773.2,chequing
+236,2024-04-10,UBER,17.44,0.0,chequing
+237,2024-04-08,Papa John's,25.98,0.0,chequing
+238,2024-04-08,WALMART,11.52,0.0,chequing
+239,2024-04-08,MCDONALD'S,4.2,0.0,chequing
+240,2024-04-08,UBER,17.35,0.0,chequing
+241,2024-04-05,Cannabis Street,28.24,0.0,chequing
+242,2024-04-05,MCDONALD'S,5.96,0.0,chequing
+243,2024-04-05,hemant,40.0,0.0,chequing
+244,2024-04-04,WALMART,11.99,0.0,chequing
+245,2024-04-04,WALMART,19.44,0.0,chequing
+246,2024-04-04,WALMART,5.24,0.0,chequing
+247,2024-04-04,MCDONALD'S,5.15,0.0,chequing
+248,2024-04-04,UBER,17.35,0.0,chequing
+249,2024-04-04,Smoothie UOIT,3.39,0.0,chequing
+250,2024-04-03,Lucky Supermarket,8.08,0.0,chequing
+251,2024-04-03,MCDONALD'S,2.3,0.0,chequing
+252,2024-04-03,MCDONALD'S,1.33,0.0,chequing
+253,2024-04-03,UBER,17.36,0.0,chequing
+254,2024-04-02,UBER Refund,0.0,19.51,chequing
+255,2024-04-02,Home Rent,500.0,0.0,chequing
+256,2024-04-02,MISC,4.0,0.0,chequing
+257,2024-04-01,No Frills,36.03,0.0,chequing
+258,2024-04-01,SHOPPERS,3.94,0.0,chequing
+259,2024-04-01,Vending Machine,4.0,0.0,chequing
+260,2024-04-01,Remitly Transaction,249.31,0.0,chequing
+261,2024-04-01,Playstation,15.11,0.0,chequing
+262,2024-04-01,Siddharth,0.0,14.0,chequing
+263,2024-04-01,ChatGPT,31.42,0.0,chequing
+264,2024-04-01,UBER,19.51,0.0,chequing
+265,2024-04-01,WALMART,16.75,0.0,chequing
+266,2024-04-01,MCDONALD'S,6.42,0.0,chequing
+267,2024-04-01,WALMART,3.15,0.0,chequing
+268,2024-04-01,Foot Locker,101.69,0.0,chequing
+270,2024-04-01,IRCC,150.0,0.0,chequing
+271,2024-04-01,UBER,27.39,0.0,chequing
+273,2024-04-01,MyCreds,18.08,0.0,chequing
+274,2024-04-01,UBER,19.65,0.0,chequing
+275,2024-04-01,kunjan,450.0,0.0,chequing
+277,2024-03-28,Service Charge Discount,0.0,16.95,chequing
+278,2024-03-28,Service Charge,16.95,0.0,chequing
+279,2024-03-28,Walmart Paycheque,0.0,969.28,chequing
+280,2024-03-28,Lucky Supermarket,14.6,0.0,chequing
+281,2024-03-27,MCDONALD'S,8.69,0.0,chequing
+282,2024-03-27,MCDONALD'S,1.33,0.0,chequing
+283,2024-03-26,MyCreds,18.08,0.0,chequing
+285,2024-03-26,DOLLARAMA,9.97,0.0,chequing
+286,2024-03-26,CINNABON,5.97,0.0,chequing
+287,2024-03-25,Bar Burrito,20.32,0.0,chequing
+288,2024-03-25,Smoothie UOIT,10.16,0.0,chequing
+289,2024-03-25,FRESHCO,2.25,0.0,chequing
+290,2024-03-25,Playstation,20.33,0.0,chequing
+291,2024-03-25,Youtube Music,6.2,0.0,chequing
+292,2024-03-25,UBER,12.48,0.0,chequing
+293,2024-03-25,WALMART,28.66,0.0,chequing
+294,2024-03-22,MCDONALD'S,3.97,0.0,chequing
+295,2024-03-22,Vending Machine,4.0,0.0,chequing
+296,2024-03-22,UBER,27.33,0.0,chequing
+297,2024-03-21,WALMART,5.23,0.0,chequing
+298,2024-03-21,MCDONALD'S,5.15,0.0,chequing
+299,2024-03-21,UBER,21.25,0.0,chequing
+300,2024-03-20,WALMART,8.1,0.0,chequing
+301,2024-03-20,MCDONALD'S,5.93,0.0,chequing
+302,2024-03-20,UBER,17.22,0.0,chequing
+303,2024-03-19,Tim Hortons,3.71,0.0,chequing
+305,2024-03-18,Smoothie UOIT,10.16,0.0,chequing
+306,2024-03-18,Kairali,20.0,0.0,chequing
+307,2024-03-18,Tim Hortons,6.87,0.0,chequing
+308,2024-03-18,Siddharth,7.0,0.0,chequing
+309,2024-03-18,GIC Deposit,0.0,717.8,chequing
+310,2024-03-18,Siddharth,140.0,0.0,chequing
+311,2024-03-18,WALMART,35.06,0.0,chequing
+312,2024-03-18,MCDONALD'S,5.93,0.0,chequing
+313,2024-03-18,UBER,19.35,0.0,chequing
+314,2024-03-18,WALMART,5.63,0.0,chequing
+315,2024-03-18,MCDONALD'S,5.15,0.0,chequing
+316,2024-03-18,UBER,19.12,0.0,chequing
+317,2024-03-18,OSMOWS,19.07,0.0,chequing
+318,2024-03-15,WALMART,14.3,0.0,chequing
+319,2024-03-15,MCDONALD'S,2.09,0.0,chequing
+320,2024-03-15,MCDONALD'S,5.15,0.0,chequing
+321,2024-03-15,UBER,19.26,0.0,chequing
+322,2024-03-15,Walmart Paycheque,0.0,940.6,chequing
+323,2024-03-14,WALMART,16.71,0.0,chequing
+324,2024-03-14,WALMART,4.97,0.0,chequing
+325,2024-03-14,MCDONALD'S,4.2,0.0,chequing
+326,2024-03-14,UBER,19.16,0.0,chequing
+327,2024-03-14,GM Paycheque,0.0,234.67,chequing
+328,2024-03-13,WALMART,3.93,0.0,chequing
+329,2024-03-13,MCDONALD'S,5.96,0.0,chequing
+330,2024-03-13,UBER,19.12,0.0,chequing
+331,2024-03-13,No Frills,33.96,0.0,chequing
+332,2024-03-12,Tim Hortons,3.14,0.0,chequing
+333,2024-03-11,MISC,4.0,0.0,chequing
+334,2024-03-11,Siddharth,20.0,0.0,chequing
+335,2024-03-11,MCDONALD'S,7.45,0.0,chequing
+336,2024-03-11,MCDONALD'S,1.33,0.0,chequing
+337,2024-03-11,WALMART,3.15,0.0,chequing
+338,2024-03-11,UBER,21.34,0.0,chequing
+339,2024-03-11,No Frills,3.69,0.0,chequing
+340,2024-03-11,Tim Hortons,1.67,0.0,chequing
+341,2024-03-11,DOLLARAMA,4.88,0.0,chequing
+342,2024-03-08,UBER,3.08,0.0,chequing
+343,2024-03-08,WALMART,4.76,0.0,chequing
+344,2024-03-08,MCDONALD'S,1.33,0.0,chequing
+345,2024-03-08,UBER,19.21,0.0,chequing
+346,2024-03-08,Durham College,4262.6,0.0,chequing
+347,2024-03-07,OTU,12.43,0.0,chequing
+348,2024-03-07,ANJAL,0.0,450.0,chequing
+349,2024-03-07,GM Paycheque,0.0,234.69,chequing
+350,2024-03-07,Durham College,3500.0,0.0,chequing
+351,2024-03-07,TOMIN,0.0,2000.0,chequing
+352,2024-03-06,WALMART,6.58,0.0,chequing
+353,2024-03-06,MCDONALD'S,9.59,0.0,chequing
+354,2024-03-06,UBER,17.82,0.0,chequing
+356,2024-03-05,No Frills,15.9,0.0,chequing
+357,2024-03-05,Joyal,0.0,1000.0,chequing
+358,2024-03-05,PICOCOOLER,8.15,0.0,chequing
+359,2024-03-04,UBER,7.01,0.0,chequing
+360,2024-03-04,WALMART,8.22,0.0,chequing
+361,2024-03-04,MCDONALD'S,6.96,0.0,chequing
+362,2024-03-04,UBER,19.13,0.0,chequing
+363,2024-03-04,WALMART,12.09,0.0,chequing
+364,2024-03-04,MCDONALD'S,11.73,0.0,chequing
+365,2024-03-04,WALMART,3.15,0.0,chequing
+366,2024-03-04,MCDONALD'S,1.33,0.0,chequing
+367,2024-03-04,UBER,19.19,0.0,chequing
+368,2024-03-04,ULTRAMAR,3.38,0.0,chequing
+369,2024-03-04,WALMART,35.88,0.0,chequing
+370,2024-03-04,MCDONALD'S,1.88,0.0,chequing
+371,2024-03-04,UBER Refund,0.0,17.68,chequing
+372,2024-03-04,UBER,17.68,0.0,chequing
+373,2024-03-04,UBER,17.68,0.0,chequing
+374,2024-03-04,Home Rent,500.0,0.0,chequing
+375,2024-03-04,Vending Machine,2.75,0.0,chequing
+376,2024-03-01,UBER,7.04,0.0,chequing
+377,2024-03-01,Remitly Transaction,251.41,0.0,chequing
+378,2024-03-01,Walmart Paycheque,0.0,681.62,chequing
+379,2024-03-01,Siddharth,0.0,15.0,chequing
+380,2024-02-29,Service Charge Discount,0.0,16.95,chequing
+381,2024-02-29,Service Charge,16.95,0.0,chequing
+383,2024-02-29,WALMART,2.09,0.0,chequing
+384,2024-02-29,MCDONALD'S,1.67,0.0,chequing
+385,2024-02-29,UBER,19.21,0.0,chequing
+386,2024-02-29,ChatGPT,31.53,0.0,chequing
+387,2024-02-28,WALMART,25.32,0.0,chequing
+388,2024-02-28,WALMART,9.56,0.0,chequing
+389,2024-02-28,MCDONALD'S,1.67,0.0,chequing
+390,2024-02-28,UBER,18.09,0.0,chequing
+391,2024-02-28,UBER,13.88,0.0,chequing
+392,2024-02-27,MISC,3.5,0.0,chequing
+393,2024-02-27,MISC,5.5,0.0,chequing
+394,2024-02-27,MISC,3.5,0.0,chequing
+395,2024-02-26,WALMART,9.36,0.0,chequing
+396,2024-02-26,WALMART,14.22,0.0,chequing
+397,2024-02-26,UBER,20.1,0.0,chequing
+399,2024-02-26,Value Village,20.88,0.0,chequing
+400,2024-02-26,WALMART,11.47,0.0,chequing
+401,2024-02-26,WENDY'S,10.84,0.0,chequing
+403,2024-02-23,UBER Eats,18.61,0.0,chequing
+404,2024-02-23,Tim Hortons,4.66,0.0,chequing
+405,2024-02-23,MCDONALD'S,8.69,0.0,chequing
+406,2024-02-23,UBER,20.18,0.0,chequing
+407,2024-02-23,GM Paycheque,0.0,748.26,chequing
+408,2024-02-22,UBER Refund,0.0,1.14,chequing
+409,2024-02-22,MCDONALD'S,8.11,0.0,chequing
+410,2024-02-22,MCDONALD'S,1.67,0.0,chequing
+411,2024-02-22,UBER,19.7,0.0,chequing
+412,2024-02-22,UBER,1.14,0.0,chequing
+413,2024-02-22,No Frills,18.35,0.0,chequing
+414,2024-02-21,WENDY'S,10.39,0.0,chequing
+415,2024-02-21,MCDONALD'S,4.19,0.0,chequing
+416,2024-02-21,WALMART,4.14,0.0,chequing
+417,2024-02-20,Tim Hortons,1.92,0.0,chequing
+418,2024-02-20,Mary Jane's,23.87,0.0,chequing
+419,2024-02-20,Smoothie UOIT,3.67,0.0,chequing
+420,2024-02-20,SHELL,20.0,0.0,chequing
+421,2024-02-20,No Frills,19.52,0.0,chequing
+422,2024-02-20,UBER,40.44,0.0,chequing
+423,2024-02-16,Vending Machine,2.75,0.0,chequing
+424,2024-02-16,Vending Machine,2.75,0.0,chequing
+425,2024-02-16,Vending Machine,2.75,0.0,chequing
+426,2024-02-16,UBER Refund,0.0,7.63,chequing
+427,2024-02-16,UBER,7.66,0.0,chequing
+428,2024-02-16,UBER,7.63,0.0,chequing
+429,2024-02-16,Walmart Paycheque,0.0,404.23,chequing
+430,2024-02-15,Vending Machine,2.75,0.0,chequing
+431,2024-02-15,PICOCOOLER,8.15,0.0,chequing
+432,2024-02-15,Vending Machine,2.75,0.0,chequing
+433,2024-02-15,Vending Machine,2.75,0.0,chequing
+434,2024-02-15,UBER,7.54,0.0,chequing
+435,2024-02-14,Tim Hortons,1.92,0.0,chequing
+436,2024-02-14,WALMART,47.02,0.0,chequing
+437,2024-02-14,WALMART,3.58,0.0,chequing
+438,2024-02-14,MCDONALD'S,0.32,0.0,chequing
+439,2024-02-13,Vending Machine,2.75,0.0,chequing
+440,2024-02-13,Vending Machine,2.75,0.0,chequing
+441,2024-02-13,PICOCOOLER,7.06,0.0,chequing
+442,2024-02-13,UBER,7.69,0.0,chequing
+443,2024-02-12,Tim Hortons,1.92,0.0,chequing
+444,2024-02-12,ADARIA,5.1,0.0,chequing
+445,2024-02-12,ADARIA,8.79,0.0,chequing
+446,2024-02-12,Vending Machine,2.75,0.0,chequing
+447,2024-02-12,York Cinemas,9.33,0.0,chequing
+448,2024-02-12,MCDONALD'S,12.63,0.0,chequing
+449,2024-02-12,MCDONALD'S,1.67,0.0,chequing
+450,2024-02-12,WALMART,4.97,0.0,chequing
+451,2024-02-12,MCDONALD'S,8.46,0.0,chequing
+452,2024-02-12,MCDONALD'S,1.67,0.0,chequing
+453,2024-02-12,UBER,19.56,0.0,chequing
+454,2024-02-09,Vending Machine,3.0,0.0,chequing
+455,2024-02-09,Tim Hortons,2.51,0.0,chequing
+456,2024-02-09,Presto,4.35,0.0,chequing
+457,2024-02-09,No Frills,35.56,0.0,chequing
+458,2024-02-08,Tim Hortons,11.52,0.0,chequing
+459,2024-02-08,Value Village,27.66,0.0,chequing
+460,2024-02-08,Siddharth,0.0,15.0,chequing
+461,2024-02-08,GM Paycheque,0.0,234.69,chequing
+462,2024-02-07,insaf,2.0,0.0,chequing
+463,2024-02-07,WALMART,84.67,0.0,chequing
+464,2024-02-07,MCDONALD'S,2.09,0.0,chequing
+465,2024-02-06,Smoothie UOIT,8.19,0.0,chequing
+467,2024-02-05,MCDONALD'S,6.09,0.0,chequing
+468,2024-02-05,WALMART,3.15,0.0,chequing
+469,2024-02-05,Tim Hortons,3.14,0.0,chequing
+470,2024-02-05,WALMART,34.87,0.0,chequing
+471,2024-02-05,MCDONALD'S,4.19,0.0,chequing
+472,2024-02-05,WALMART,1.79,0.0,chequing
+473,2024-02-05,Tim Hortons,2.93,0.0,chequing
+474,2024-02-05,WALMART,17.26,0.0,chequing
+475,2024-02-05,MCDONALD'S,4.84,0.0,chequing
+476,2024-02-05,MCDONALD'S,6.84,0.0,chequing
+477,2024-02-05,Vending Machine,2.75,0.0,chequing
+478,2024-02-05,Vending Machine,2.75,0.0,chequing
+479,2024-02-02,Vending Machine,3.5,0.0,chequing
+480,2024-02-02,Vending Machine,2.75,0.0,chequing
+482,2024-02-02,Walmart Paycheque,0.0,505.12,chequing
+483,2024-02-02,Home Rent,500.0,0.0,chequing
+484,2024-02-01,Tim Hortons,4.19,0.0,chequing
+485,2024-02-01,MISC,3.5,0.0,chequing
+486,2024-02-01,Remitly Transaction,248.21,0.0,chequing
+487,2024-02-01,GIC Deposit,0.0,730.0,chequing
+488,2024-01-31,Service Charge Discount,0.0,16.95,chequing
+489,2024-01-31,Service Charge,16.95,0.0,chequing
+490,2024-01-31,Tim Hortons,1.92,0.0,chequing
+491,2024-01-31,WALMART,52.3,0.0,chequing
+492,2024-01-31,ChatGPT,31.16,0.0,chequing
+493,2024-01-30,Tim Hortons,6.58,0.0,chequing
+494,2024-01-29,Tim Hortons,1.92,0.0,chequing
+495,2024-01-29,Tim Hortons,1.92,0.0,chequing
+496,2024-01-29,DOLLARAMA,19.87,0.0,chequing
+497,2024-01-29,Vending Machine,2.5,0.0,chequing
+498,2024-01-29,Vending Machine,2.5,0.0,chequing
+499,2024-01-26,DOMINOS,19.2,0.0,chequing
+500,2024-01-26,Tim Hortons,1.77,0.0,chequing
+501,2024-01-26,Tim Hortons,1.92,0.0,chequing
+502,2024-01-25,Tim Hortons,2.93,0.0,chequing
+503,2024-01-25,WALMART,13.15,0.0,chequing
+504,2024-01-25,WALMART,7.63,0.0,chequing
+505,2024-01-25,MCDONALD'S,1.98,0.0,chequing
+506,2024-01-24,WALMART,23.53,0.0,chequing
+507,2024-01-23,Tim Hortons,1.98,0.0,chequing
+508,2024-01-23,Tim Hortons,6.77,0.0,chequing
+509,2024-01-23,Tim Hortons,5.45,0.0,chequing
+511,2024-01-19,Walmart Paycheque,0.0,660.27,chequing
+512,2024-01-18,GM Paycheque,0.0,438.06,chequing
+513,2024-01-17,kailas,50.0,0.0,chequing
+514,2024-01-17,DC - ATHLETICS,20.0,0.0,chequing
+515,2024-01-11,GM Paycheque,0.0,231.97,chequing
+516,2024-01-11,Tim Hortons,3.8,0.0,chequing
+517,2024-01-08,Taksh,1.87,0.0,chequing
+518,2024-01-05,Walmart Paycheque,0.0,712.48,chequing
+519,2024-01-05,GM Paycheque,0.0,425.05,chequing
+520,2024-01-04,Remitly Transaction,245.93,0.0,chequing
+522,2024-01-03,GIC Deposit,0.0,730.0,chequing
+523,2024-01-02,Libin,20.0,0.0,chequing
+525,2024-01-02,Tim Hortons,4.72,0.0,chequing
+526,2023-12-29,Service Charge Discount,0.0,16.95,chequing
+527,2023-12-29,Service Charge,16.95,0.0,chequing
+529,2023-12-29,Tim Hortons,1.77,0.0,chequing
+530,2023-12-29,GM Paycheque,0.0,880.31,chequing
+531,2023-12-27,MISC,3.14,0.0,chequing
+532,2023-12-27,Dan,2000.0,0.0,chequing
+533,2023-12-27,Siddharth,0.0,500.0,chequing
+535,2023-12-27,Ravi,45.0,0.0,chequing
+536,2023-12-27,KUNG,23.05,0.0,chequing
+537,2023-12-27,SQ,7.0,0.0,chequing
+538,2023-12-27,Mind Games,84.72,0.0,chequing
+539,2023-12-27,Mind Games,23.15,0.0,chequing
+540,2023-12-22,Walmart Paycheque,0.0,392.41,chequing
+541,2023-12-21,GM Paycheque,0.0,441.21,chequing
+542,2023-12-18,Tim Hortons,5.85,0.0,chequing
+543,2023-12-18,ajith,18.75,0.0,chequing
+544,2023-12-18,Nirvana,101.7,0.0,chequing
+545,2023-12-18,FRESHCO,12.38,0.0,chequing
+546,2023-12-18,Vending Machine,3.0,0.0,chequing
+547,2023-12-15,FRESHCO,26.57,0.0,chequing
+548,2023-12-14,Tim Hortons,5.74,0.0,chequing
+550,2023-12-14,WALMART,7.16,0.0,chequing
+551,2023-12-14,WALMART,1.49,0.0,chequing
+552,2023-12-14,GM Paycheque,0.0,435.81,chequing
+553,2023-12-13,FRESHCO,23.1,0.0,chequing
+556,2023-12-11,Vending Machine,2.75,0.0,chequing
+557,2023-12-08,Vending Machine,2.75,0.0,chequing
+558,2023-12-08,FRESHCO,23.22,0.0,chequing
+560,2023-12-07,Budget Bud,6.34,0.0,chequing
+561,2023-12-07,GM Paycheque,0.0,545.77,chequing
+562,2023-12-06,Tim Hortons,6.53,0.0,chequing
+564,2023-12-06,WALMART,5.96,0.0,chequing
+565,2023-12-05,FRESHCO,26.12,0.0,chequing
+566,2023-12-05,GIC Deposit,0.0,730.0,chequing
+567,2023-12-05,Remitly Transaction,249.56,0.0,chequing
+568,2023-12-04,FRESHCO,21.33,0.0,chequing
+569,2023-12-04,Tim Hortons,2.93,0.0,chequing
+570,2023-12-04,WALMART,27.69,0.0,chequing
+573,2023-11-30,Service Charge Discount,0.0,16.95,chequing
+574,2023-11-30,Service Charge,16.95,0.0,chequing
+575,2023-11-30,GM Paycheque,0.0,355.93,chequing
+576,2023-11-30,Beer Store,9.95,0.0,chequing
+577,2023-11-30,FRESHCO,10.62,0.0,chequing
+578,2023-11-29,FRESHCO,13.3,0.0,chequing
+579,2023-11-28,FRESHCO,54.28,0.0,chequing
+581,2023-11-27,PICOCOOLER,8.7,0.0,chequing
+582,2023-11-27,Vending Machine,3.0,0.0,chequing
+583,2023-11-27,Presse Cafe,8.87,0.0,chequing
+584,2023-11-27,Vending Machine,2.25,0.0,chequing
+585,2023-11-27,Presse Cafe,8.75,0.0,chequing
+586,2023-11-24,PICOCOOLER,7.7,0.0,chequing
+587,2023-11-24,Walmart Paycheque,0.0,131.81,chequing
+588,2023-11-23,Sport Chek,43.49,0.0,chequing
+589,2023-11-23,Joyal,2000.0,0.0,chequing
+590,2023-11-23,GM Paycheque,0.0,380.95,chequing
+591,2023-11-23,Smoothie UOIT,10.16,0.0,chequing
+592,2023-11-21,Smoothie UOIT,7.9,0.0,chequing
+593,2023-11-20,Vending Machine,2.75,0.0,chequing
+594,2023-11-20,PRESTO,3.35,0.0,chequing
+595,2023-11-20,YOGEN,7.35,0.0,chequing
+596,2023-11-17,Beer Store,3.75,0.0,chequing
+597,2023-11-17,FRESHCO,48.18,0.0,chequing
+599,2023-11-16,GM Paycheque,0.0,190.54,chequing
+600,2023-11-16,GM Paycheque,0.0,809.53,chequing
+601,2023-11-16,Tim Hortons,2.61,0.0,chequing
+602,2023-11-14,Tim Hortons,12.74,0.0,chequing
+603,2023-11-14,FRESHCO,36.79,0.0,chequing
+604,2023-11-14,LCBO,48.9,0.0,chequing
+605,2023-11-14,Vending Machine,2.5,0.0,chequing
+606,2023-11-14,Vending Machine,2.75,0.0,chequing
+607,2023-11-14,FRESHCO,3.38,0.0,chequing
+608,2023-11-10,Walmart Paycheque,0.0,609.82,chequing
+609,2023-11-10,Vending Machine,3.5,0.0,chequing
+610,2023-11-10,Vending Machine,2.75,0.0,chequing
+611,2023-11-09,Vending Machine,2.5,0.0,chequing
+612,2023-11-09,Vending Machine,2.75,0.0,chequing
+613,2023-11-09,Vending Machine,2.75,0.0,chequing
+614,2023-11-09,MISC,3.5,0.0,chequing
+615,2023-11-09,Vending Machine,2.5,0.0,chequing
+616,2023-11-08,Vending Machine,2.75,0.0,chequing
+617,2023-11-08,FRESHCO,24.24,0.0,chequing
+618,2023-11-08,MISC,3.5,0.0,chequing
+619,2023-11-07,Vending Machine,2.75,0.0,chequing
+620,2023-11-07,Tomi,400.0,0.0,chequing
+621,2023-11-07,GIC Deposit,0.0,730.0,chequing
+622,2023-11-07,FIDO Bill,57.63,0.0,chequing
+623,2023-11-07,Vending Machine,2.75,0.0,chequing
+624,2023-11-06,Remitly Transaction,249.56,0.0,chequing
+625,2023-11-06,Tim Hortons,3.66,0.0,chequing
+626,2023-11-06,Tim Hortons,2.61,0.0,chequing
+627,2023-11-06,WALMART,5.6,0.0,chequing
+628,2023-11-03,Tim Hortons,7.65,0.0,chequing
+629,2023-11-02,Tim Hortons,3.66,0.0,chequing
+630,2023-11-02,KFC,8.79,0.0,chequing
+631,2023-11-01,WALMART,5.77,0.0,chequing
+633,2023-10-31,Service Charge Discount,0.0,16.95,chequing
+634,2023-10-31,Service Charge,16.95,0.0,chequing
+635,2023-10-31,Tim Hortons,1.67,0.0,chequing
+636,2023-10-30,FRESHCO,7.29,0.0,chequing
+637,2023-10-30,FRESHCO,31.8,0.0,chequing
+639,2023-10-27,Tim Hortons,4.95,0.0,chequing
+640,2023-10-27,New York Fries,10.16,0.0,chequing
+641,2023-10-27,Sport Chek,54.24,0.0,chequing
+642,2023-10-27,Walmart Paycheque,0.0,976.34,chequing
+643,2023-10-25,Remitly Transaction,248.94,0.0,chequing
+644,2023-10-19,Yash,0.0,3.37,chequing
+645,2023-10-16,Beer Store,17.95,0.0,chequing
+646,2023-10-16,Tomi,400.0,0.0,chequing
+648,2023-10-13,Walmart Paycheque,0.0,487.59,chequing
+649,2023-10-12,Tim Hortons,9.92,0.0,chequing
+650,2023-10-12,Tim Hortons,5.45,0.0,chequing
+651,2023-10-11,Tim Hortons,1.05,0.0,chequing
+653,2023-10-11,GIC Deposit,0.0,730.0,chequing
+654,2023-10-11,WALMART,3.37,0.0,chequing
+655,2023-10-11,WALMART,4.83,0.0,chequing
+656,2023-10-11,FRESHCO,33.77,0.0,chequing
+659,2023-10-10,Tim Hortons,2.97,0.0,chequing
+660,2023-10-10,Tim Hortons,6.19,0.0,chequing
+661,2023-10-10,FIDO Bill,56.5,0.0,chequing
+662,2023-10-10,WALMART,9.94,0.0,chequing
+663,2023-10-10,Tim Hortons,5.63,0.0,chequing
+664,2023-10-05,FRESHCO,17.72,0.0,chequing
+665,2023-10-05,Tim Hortons,2.97,0.0,chequing
+666,2023-10-04,Tim Hortons,1.05,0.0,chequing
+667,2023-10-03,Tim Hortons,5.63,0.0,chequing
+668,2023-10-03,WALMART,5.4,0.0,chequing
+669,2023-10-03,WALMART,142.24,0.0,chequing
+670,2023-10-03,FRESHCO,4.72,0.0,chequing
+671,2023-10-03,WALMART,16.57,0.0,chequing
+672,2023-10-03,MCDONALD'S,4.08,0.0,chequing
+673,2023-09-29,Service Charge Discount,0.0,16.95,chequing
+674,2023-09-29,Service Charge,16.95,0.0,chequing
+675,2023-09-29,MCDONALD'S,3.03,0.0,chequing
+676,2023-09-28,Subway,12.31,0.0,chequing
+677,2023-09-28,WALMART,2.57,0.0,chequing
+678,2023-09-26,Tim Hortons,7.89,0.0,chequing
+679,2023-09-26,FRESHCO,26.78,0.0,chequing
+680,2023-09-26,Tim Hortons,8.22,0.0,chequing
+681,2023-09-25,Tim Hortons,3.45,0.0,chequing
+682,2023-09-25,Beer Store,15.95,0.0,chequing
+685,2023-09-25,Beer Store,2.95,0.0,chequing
+686,2023-09-22,Tim Hortons,4.18,0.0,chequing
+687,2023-09-21,FRESHCO,22.22,0.0,chequing
+688,2023-09-21,Vending Machine,4.25,0.0,chequing
+689,2023-09-19,MISC,4.25,0.0,chequing
+690,2023-09-19,Tim Hortons,2.4,0.0,chequing
+691,2023-09-19,Siddharth,0.0,100.0,chequing
+692,2023-09-19,FRESHCO,7.07,0.0,chequing
+693,2023-09-19,LCBO,42.45,0.0,chequing
+695,2023-09-18,Tim Hortons,9.84,0.0,chequing
+696,2023-09-18,FRESHCO,9.11,0.0,chequing
+697,2023-09-15,Tim Hortons,5.64,0.0,chequing
+698,2023-09-15,WALMART,0.37,0.0,chequing
+699,2023-09-15,WALMART,6.0,0.0,chequing
+702,2023-09-12,GIC Deposit,0.0,730.0,chequing
+703,2023-09-11,Durham College,4000.0,0.0,chequing
+706,2023-09-08,FIDO Bill,45.2,0.0,chequing
+707,2023-09-07,JOYAL,0.0,2000.0,chequing
+709,2023-08-31,Service Charge Discount,0.0,6.95,chequing
+710,2023-08-31,Service Charge,6.95,0.0,chequing
+712,2023-08-30,Durham College,3000.0,0.0,chequing
+716,2023-08-25,Instacart,0.0,17.3,chequing
+717,2023-08-25,Instacart,16.81,0.0,chequing
+718,2023-08-23,Instacart,17.3,0.0,chequing
+720,2023-08-15,GIC Deposit,0.0,730.0,chequing
+721,2023-07-31,Service Charge Discount,0.0,6.95,chequing
+722,2023-07-31,Service Charge,6.95,0.0,chequing
+726,2023-07-18,GIC Deposit,0.0,730.0,chequing
+727,2023-07-10,Siddharth,100.0,0.0,chequing
+728,2023-07-10,FIDO Bill,45.62,0.0,chequing
+729,2023-06-30,Service Charge Discount,0.0,6.95,chequing
+730,2023-06-30,Service Charge,6.95,0.0,chequing
+733,2023-06-22,GIC Deposit,0.0,730.0,chequing
+735,2023-06-13,FIDO Bill,48.49,0.0,chequing
+736,2023-05-31,Service Charge Discount,0.0,6.95,chequing
+737,2023-05-31,Service Charge,6.95,0.0,chequing
+739,2023-05-25,GIC Deposit,0.0,730.0,chequing
+740,2023-05-23,Siddharth,300.0,0.0,chequing
